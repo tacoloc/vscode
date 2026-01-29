@@ -9,4 +9,3 @@ mayoría sufrió alteraciones desde alguna manera, ya sea porque se le agregó h
  muy útiles de sentencias, para generar texto de Lorem Ipsum que parezca 
  razonable. Este Lorem Ipsum generado siempre estará libre de repeticiones,
  humor agregado o palabras no características del lenguaje, etc.
-cargando
